@@ -5,51 +5,44 @@
 <h1 align="center">Hi 👋, I'm Priyadharshini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Automation+Testing+Enthusiast;Java+Developer;Selenium+%7C+TestNG+%7C+SQL;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Automation+Testing+Enthusiast;Java+Developer;Selenium+%7C+TestNG+%7C+SQL;Playwright+Learner;Building+Reliable+Software" />
 </p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,mysql,git,github,vscode" />
+</p>
+
+---
 
 ## 👩‍💻 About Me
 
 🎓 Computer Science Engineering Graduate
 
-💻 Interested in Automation Testing & Software Development
+💻 Passionate about Automation Testing & Software Development
 
-🌱 Learning Selenium WebDriver, TestNG, Playwright & Advanced Automation Frameworks
+🧪 Working with Selenium WebDriver, TestNG, Java & SQL
 
-🚀 Open to Automation Testing and Software Development Opportunities
+🌱 Exploring Playwright and Advanced Automation Frameworks
 
----
-
-## 🛠 Skills
-
-💡 Java | Python | SQL
-
-🧪 Selenium WebDriver | TestNG | Manual Testing
-
-🌐 HTML | CSS | JavaScript
-
-🔧 Git | GitHub | VS Code | Eclipse | MySQL
+🚀 Open to Software Testing and Development Opportunities
 
 ---
 
-## 🏆 Certifications
+## ⚙️ Tech Stack
 
-✔ NPTEL - Internet of Things (IoT)
+**Languages:** Java • Python • SQL • JavaScript
 
-✔ Python Backend Development Internship
+**Testing:** Selenium WebDriver • TestNG • Manual Testing
 
-✔ Agile Management Training
+**Tools:** Git • GitHub • VS Code • Eclipse • MySQL
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyadharshini3001&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshini3001&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Priyadharshini3001&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyadharshini3001&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -58,4 +51,6 @@
 
 🔗 https://priyadharshini3001.github.io/my-portfolio-updated/
 
-⭐ Always eager to learn, grow, and contribute to innovative solutions.
+<p align="center">
+  <i>Learning • Building • Growing 🚀</i>
+</p>
