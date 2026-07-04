@@ -47,8 +47,6 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=priyadharshini3001&label=Profile%20Views&color=6a11cb&style=for-the-badge" />
-
 <sub>✨ Crafted with precision — testing quality, building reliability ✨</sub>
 
 </div>
